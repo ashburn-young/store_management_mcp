@@ -1,0 +1,167 @@
+[
+  {
+    "store_id": "store_001",
+    "name": "Downtown Main Store",
+    "address": "123 Main St, Downtown, NY 10001",
+    "phone": "+1-555-123-4567",
+    "manager": "John Smith",
+    "category": "Electronics & Tech",
+    "opening_date": "2020-03-15",
+    "square_footage": 2500,
+    "employee_count": 12
+  },
+  {
+    "store_id": "store_002",
+    "name": "Westside Shopping Center",
+    "address": "456 West Ave, Westside, NY 10002",
+    "phone": "+1-555-234-5678",
+    "manager": "Maria Garcia",
+    "category": "Home & Garden",
+    "opening_date": "2019-08-20",
+    "square_footage": 3200,
+    "employee_count": 15
+  },
+  {
+    "store_id": "store_003",
+    "name": "Northgate Plaza",
+    "address": "789 North Blvd, Northgate, NY 10003",
+    "phone": "+1-555-345-6789",
+    "manager": "Sarah Davis",
+    "category": "Fashion & Accessories",
+    "opening_date": "2021-01-10",
+    "square_footage": 1800,
+    "employee_count": 8
+  },
+  {
+    "store_id": "store_004",
+    "name": "Eastside Mall",
+    "address": "321 East St, Eastside, NY 10004",
+    "phone": "+1-555-456-7890",
+    "manager": "James Wilson",
+    "category": "Electronics & Tech",
+    "opening_date": "2018-11-05",
+    "square_footage": 2800,
+    "employee_count": 14
+  },
+  {
+    "store_id": "store_005",
+    "name": "Southgate Market",
+    "address": "654 South Ave, Southgate, NY 10005",
+    "phone": "+1-555-567-8901",
+    "manager": "Robert Johnson",
+    "category": "Home & Garden",
+    "opening_date": "2022-02-15",
+    "square_footage": 3500,
+    "employee_count": 17
+  },
+  {
+    "store_id": "store_006",
+    "name": "Central Business District",
+    "address": "987 Central St, CBD, NY 10006",
+    "phone": "+1-555-678-9012",
+    "manager": "Jessica Lee",
+    "category": "Fashion & Accessories",
+    "opening_date": "2019-05-20",
+    "square_footage": 2100,
+    "employee_count": 10
+  },
+  {
+    "store_id": "store_007",
+    "name": "Bayside Shopping",
+    "address": "111 Bay Rd, Bayside, NY 10007",
+    "phone": "+1-555-789-0123",
+    "manager": "Michael Brown",
+    "category": "Grocery & Food",
+    "opening_date": "2021-08-30",
+    "square_footage": 4200,
+    "employee_count": 22
+  },
+  {
+    "store_id": "store_008",
+    "name": "Hilltop Center",
+    "address": "222 Hill Dr, Hilltop, NY 10008",
+    "phone": "+1-555-890-1234",
+    "manager": "Emily Thompson",
+    "category": "Grocery & Food",
+    "opening_date": "2020-07-12",
+    "square_footage": 3800,
+    "employee_count": 20
+  },
+  {
+    "store_id": "store_009",
+    "name": "Lakeside Outlet",
+    "address": "333 Lake Rd, Lakeside, NY 10009",
+    "phone": "+1-555-901-2345",
+    "manager": "Daniel Martinez",
+    "category": "Sports & Outdoors",
+    "opening_date": "2022-04-08",
+    "square_footage": 3000,
+    "employee_count": 15
+  },
+  {
+    "store_id": "store_010",
+    "name": "Mountainview Mall",
+    "address": "444 Mountain Ave, Mountainview, NY 10010",
+    "phone": "+1-555-012-3456",
+    "manager": "Amanda Clark",
+    "category": "Sports & Outdoors",
+    "opening_date": "2019-03-25",
+    "square_footage": 3600,
+    "employee_count": 18
+  },
+  {
+    "store_id": "store_011",
+    "name": "Riverside Plaza",
+    "address": "555 River St, Riverside, NY 10011",
+    "phone": "+1-555-123-4567",
+    "manager": "Thomas Anderson",
+    "category": "Books & Media",
+    "opening_date": "2021-06-15",
+    "square_footage": 2300,
+    "employee_count": 11
+  },
+  {
+    "store_id": "store_012",
+    "name": "Forest Hills Center",
+    "address": "666 Forest Ln, Forest Hills, NY 10012",
+    "phone": "+1-555-234-5678",
+    "manager": "Jennifer White",
+    "category": "Books & Media",
+    "opening_date": "2020-09-01",
+    "square_footage": 2000,
+    "employee_count": 9
+  },
+  {
+    "store_id": "store_013",
+    "name": "Harbor Point Shopping",
+    "address": "777 Harbor Blvd, Harbor Point, NY 10013",
+    "phone": "+1-555-345-6789",
+    "manager": "Ryan Miller",
+    "category": "Health & Beauty",
+    "opening_date": "2022-01-20",
+    "square_footage": 1700,
+    "employee_count": 8
+  },
+  {
+    "store_id": "store_014",
+    "name": "Grand Central Store",
+    "address": "888 Grand St, Midtown, NY 10014",
+    "phone": "+1-555-456-7890",
+    "manager": "Laura Taylor",
+    "category": "Health & Beauty",
+    "opening_date": "2019-11-11",
+    "square_footage": 2400,
+    "employee_count": 12
+  },
+  {
+    "store_id": "store_015",
+    "name": "Valley Market",
+    "address": "999 Valley Rd, Valley, NY 10015",
+    "phone": "+1-555-567-8901",
+    "manager": "Kevin Rodriguez",
+    "category": "Toys & Games",
+    "opening_date": "2021-05-05",
+    "square_footage": 2600,
+    "employee_count": 13
+  }
+]

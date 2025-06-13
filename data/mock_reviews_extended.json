@@ -1,0 +1,470 @@
+[
+  {
+    "store_id": "store_001",
+    "review_id": "rev_001",
+    "rating": 5,
+    "text": "Excellent service! The staff was incredibly helpful and the product quality exceeded my expectations. Will definitely be back!",
+    "date": "2024-01-15T10:30:00Z",
+    "reviewer_name": "Sarah Johnson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_001",
+    "review_id": "rev_002",
+    "rating": 2,
+    "text": "Very disappointed with the customer service. Had to wait 45 minutes just to get assistance. The staff seemed overwhelmed and unorganized.",
+    "date": "2024-01-14T15:45:00Z",
+    "reviewer_name": "Michael Chen",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_001",
+    "review_id": "rev_003",
+    "rating": 4,
+    "text": "Good selection of products and reasonable prices. The checkout process was smooth. Only wish they had more parking spaces available.",
+    "date": "2024-01-13T12:20:00Z",
+    "reviewer_name": "Emily Rodriguez",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_001",
+    "review_id": "rev_101",
+    "rating": 5,
+    "text": "The tech support at this store is amazing! They helped me troubleshoot a complicated issue with my new laptop and even showed me some helpful shortcuts.",
+    "date": "2024-02-18T14:30:00Z",
+    "reviewer_name": "Marcus Williams",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_001",
+    "review_id": "rev_102",
+    "rating": 3,
+    "text": "Decent store with good product selection. The prices are competitive but the wait time at checkout was longer than expected. Could use more cashiers during peak hours.",
+    "date": "2024-02-15T11:20:00Z",
+    "reviewer_name": "Linda Patel",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_001",
+    "review_id": "rev_103",
+    "rating": 4,
+    "text": "I love the layout of this store. It's easy to find what you're looking for, and the staff is generally knowledgeable. Prices are fair for the quality of products they carry.",
+    "date": "2024-02-10T09:45:00Z",
+    "reviewer_name": "Jason Cooper",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_001",
+    "review_id": "rev_104",
+    "rating": 1,
+    "text": "Absolutely terrible experience. Product was defective, and they gave me a hard time about returning it even though it was within the return period. Will not shop here again.",
+    "date": "2024-02-05T16:15:00Z",
+    "reviewer_name": "Sophia Martinez",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_002",
+    "review_id": "rev_004",
+    "rating": 5,
+    "text": "Amazing experience! The new layout makes it so easy to find everything. Staff is knowledgeable and friendly. Great job on the renovation!",
+    "date": "2024-01-15T09:15:00Z",
+    "reviewer_name": "David Wilson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_002",
+    "review_id": "rev_005",
+    "rating": 1,
+    "text": "Worst shopping experience ever. The store was dirty, products were misplaced, and the staff was rude. Will not be returning.",
+    "date": "2024-01-12T18:30:00Z",
+    "reviewer_name": "Jennifer Martinez",
+    "verified_purchase": false
+  },
+  {
+    "store_id": "store_002",
+    "review_id": "rev_006",
+    "rating": 3,
+    "text": "Average shopping experience. Found what I needed but customer service could be better. Had to search for help when I had questions.",
+    "date": "2024-01-10T14:00:00Z",
+    "reviewer_name": "Robert Thompson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_002",
+    "review_id": "rev_105",
+    "rating": 5,
+    "text": "This home & garden store has the best selection of outdoor furniture I've seen! The quality is excellent, and the staff helped me pick the perfect patio set for my space.",
+    "date": "2024-03-05T10:30:00Z",
+    "reviewer_name": "Karen Johnson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_002",
+    "review_id": "rev_106",
+    "rating": 4,
+    "text": "Great selection of gardening tools and plants. The staff was knowledgeable and gave me good advice for my garden problems. Prices are a bit high but worth it for the quality.",
+    "date": "2024-03-02T15:45:00Z",
+    "reviewer_name": "Thomas Garcia",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_003",
+    "review_id": "rev_007",
+    "rating": 4,
+    "text": "Love the fashion selection at this store! They always have the latest trends and the staff is great at helping find the right sizes.",
+    "date": "2024-01-14T11:45:00Z",
+    "reviewer_name": "Amanda Scott",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_003",
+    "review_id": "rev_008",
+    "rating": 5,
+    "text": "Best shopping experience I've had in years. The personal styling service was amazing and I found exactly what I needed for a special event.",
+    "date": "2024-01-11T16:20:00Z",
+    "reviewer_name": "Daniel Brown",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_003",
+    "review_id": "rev_009",
+    "rating": 2,
+    "text": "Disappointed with my recent purchase. The quality was not as good as expected and the fitting room had poor lighting. Hard to see the true colors of clothing.",
+    "date": "2024-01-09T12:30:00Z",
+    "reviewer_name": "Sophia Lee",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_003",
+    "review_id": "rev_107",
+    "rating": 5,
+    "text": "This fashion boutique is amazing! The clothes are high quality and on-trend. The sales associate helped me put together a whole outfit for a job interview that got me so many compliments!",
+    "date": "2024-03-10T13:15:00Z",
+    "reviewer_name": "Rebecca Chen",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_004",
+    "review_id": "rev_010",
+    "rating": 5,
+    "text": "The selection of electronics is impressive and the prices are competitive. Staff was knowledgeable and helped me choose the perfect laptop for my needs.",
+    "date": "2024-01-13T10:15:00Z",
+    "reviewer_name": "Thomas Miller",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_004",
+    "review_id": "rev_011",
+    "rating": 3,
+    "text": "Decent electronics store but the wait for technical support was too long. Staff seemed knowledgeable when I finally got help.",
+    "date": "2024-01-10T15:30:00Z",
+    "reviewer_name": "Jessica Clark",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_004",
+    "review_id": "rev_108",
+    "rating": 4,
+    "text": "The gaming section in this electronics store is top-notch! They had all the latest releases and the staff really knows their stuff about gaming systems. Would have been 5 stars but they were out of the controller I wanted.",
+    "date": "2024-03-15T11:45:00Z",
+    "reviewer_name": "Brandon Wilson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_005",
+    "review_id": "rev_012",
+    "rating": 5,
+    "text": "Absolutely love this store! Their garden section is outstanding and the staff provided expert advice on plant care. Will definitely be returning.",
+    "date": "2024-01-12T09:45:00Z",
+    "reviewer_name": "Laura Wilson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_005",
+    "review_id": "rev_013",
+    "rating": 4,
+    "text": "Great selection of home goods and reasonable prices. The store layout is well organized and makes shopping efficient.",
+    "date": "2024-01-09T14:20:00Z",
+    "reviewer_name": "Kevin Anderson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_005",
+    "review_id": "rev_109",
+    "rating": 2,
+    "text": "Disappointing experience at this home store. Many items were out of stock and the rain gutters I purchased leaked when installed. The return process was complicated and time-consuming.",
+    "date": "2024-03-08T16:30:00Z",
+    "reviewer_name": "Richard Taylor",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_006",
+    "review_id": "rev_014",
+    "rating": 5,
+    "text": "This fashion store has the best customer service! The staff remembered me from my last visit and helped me find exactly what I was looking for.",
+    "date": "2024-01-11T11:30:00Z",
+    "reviewer_name": "Olivia Davis",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_006",
+    "review_id": "rev_015",
+    "rating": 1,
+    "text": "Terrible experience. Items were overpriced and the quality was poor. When I tried to return an unworn item, I was given a hard time. Won't shop here again.",
+    "date": "2024-01-08T16:45:00Z",
+    "reviewer_name": "William Johnson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_006",
+    "review_id": "rev_110",
+    "rating": 4,
+    "text": "The accessories section in this store is fantastic! Found a beautiful scarf and earrings that perfectly matched my outfit. The only downside is that the store can get very crowded on weekends.",
+    "date": "2024-03-12T14:00:00Z",
+    "reviewer_name": "Natalie Brown",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_007",
+    "review_id": "rev_016",
+    "rating": 5,
+    "text": "The freshest produce in town! Love the local farmer's section and the staff is always friendly and helpful. Clean store with wide aisles.",
+    "date": "2024-01-10T10:15:00Z",
+    "reviewer_name": "George Robinson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_007",
+    "review_id": "rev_017",
+    "rating": 2,
+    "text": "Disappointed with the bakery section. Items were not fresh and there were limited options. Produce section was good though.",
+    "date": "2024-01-07T15:30:00Z",
+    "reviewer_name": "Emma White",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_007",
+    "review_id": "rev_111",
+    "rating": 5,
+    "text": "The deli counter at this grocery store is amazing! Fresh cuts, great selection, and the staff is always willing to give samples. Their prepared foods section is also top quality for quick meals.",
+    "date": "2024-03-18T12:45:00Z",
+    "reviewer_name": "Christopher Lee",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_008",
+    "review_id": "rev_018",
+    "rating": 4,
+    "text": "Good grocery store with competitive prices. The store brand items are high quality and affordable. Would appreciate more organic options.",
+    "date": "2024-01-09T09:45:00Z",
+    "reviewer_name": "James Taylor",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_008",
+    "review_id": "rev_019",
+    "rating": 3,
+    "text": "Average grocery store. Nothing special but gets the job done. Checkout lines can be long during peak hours.",
+    "date": "2024-01-06T14:15:00Z",
+    "reviewer_name": "Isabella Martinez",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_008",
+    "review_id": "rev_112",
+    "rating": 1,
+    "text": "Terrible experience at this grocery store today. Found expired products on the shelves, the floors were dirty, and the checkout lines were impossibly long. Management needs to address these basic issues.",
+    "date": "2024-03-20T17:30:00Z",
+    "reviewer_name": "Samantha Phillips",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_009",
+    "review_id": "rev_020",
+    "rating": 5,
+    "text": "Best sports store in the area! Huge selection of quality gear and knowledgeable staff who are actual sports enthusiasts. Great prices on name brands.",
+    "date": "2024-01-08T11:30:00Z",
+    "reviewer_name": "Michael Thompson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_009",
+    "review_id": "rev_021",
+    "rating": 4,
+    "text": "Good selection of outdoor gear. The staff helped me find the perfect hiking boots and gave great advice for local trails. Prices are reasonable.",
+    "date": "2024-01-05T16:00:00Z",
+    "reviewer_name": "Sarah Anderson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_009",
+    "review_id": "rev_113",
+    "rating": 5,
+    "text": "This sports store has the best fishing section I've ever seen! The staff member who helped me knew exactly which lures would work for the local lake conditions. I caught more fish than ever using their recommendations!",
+    "date": "2024-03-22T10:15:00Z",
+    "reviewer_name": "Robert Fisher",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_010",
+    "review_id": "rev_022",
+    "rating": 3,
+    "text": "Decent sports store but the prices are a bit high compared to competitors. The quality is good but not enough to justify the markup.",
+    "date": "2024-01-07T10:45:00Z",
+    "reviewer_name": "Daniel Wilson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_010",
+    "review_id": "rev_023",
+    "rating": 5,
+    "text": "Excellent selection of fitness equipment! The staff was helpful and let me test several items before making my decision. Will definitely return.",
+    "date": "2024-01-04T15:20:00Z",
+    "reviewer_name": "Emily Davis",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_010",
+    "review_id": "rev_114",
+    "rating": 2,
+    "text": "Disappointed with this sports store. The running shoes I purchased fell apart after just two weeks of normal use. When I tried to return them, I was told they couldn't take them back because they had been worn. Poor quality products.",
+    "date": "2024-03-25T14:45:00Z",
+    "reviewer_name": "Jennifer Walker",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_011",
+    "review_id": "rev_024",
+    "rating": 5,
+    "text": "Book lover's paradise! The staff recommendations are always spot on and they host wonderful author events. Love the cozy reading nooks.",
+    "date": "2024-01-06T09:30:00Z",
+    "reviewer_name": "William Brown",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_011",
+    "review_id": "rev_025",
+    "rating": 4,
+    "text": "Great bookstore with an excellent selection of genres. The café inside is a nice touch for enjoying a new book. Wish they had longer hours on weekends.",
+    "date": "2024-01-03T14:45:00Z",
+    "reviewer_name": "Sophia Garcia",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_011",
+    "review_id": "rev_115",
+    "rating": 5,
+    "text": "The children's section of this bookstore is outstanding! The weekly storytime sessions are engaging and the staff is so patient with the kids. My daughter found her new favorite series thanks to a staff recommendation!",
+    "date": "2024-03-28T11:30:00Z",
+    "reviewer_name": "Jessica Roberts",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_012",
+    "review_id": "rev_026",
+    "rating": 3,
+    "text": "Decent bookstore but the selection is limited compared to larger chains. The staff is friendly and they're good about ordering titles they don't have in stock.",
+    "date": "2024-01-05T11:15:00Z",
+    "reviewer_name": "Robert Miller",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_012",
+    "review_id": "rev_027",
+    "rating": 5,
+    "text": "Love this cozy bookstore! They have a great selection of indie authors and the monthly book club is fantastic. Staff recommendations have never disappointed me.",
+    "date": "2024-01-02T16:30:00Z",
+    "reviewer_name": "Olivia Thompson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_012",
+    "review_id": "rev_116",
+    "rating": 2,
+    "text": "Overpriced bookstore with poor customer service. When I asked about a specific title, the staff seemed annoyed and barely helped. Found the same books online for much cheaper.",
+    "date": "2024-03-30T13:45:00Z",
+    "reviewer_name": "David Campbell",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_013",
+    "review_id": "rev_028",
+    "rating": 5,
+    "text": "Amazing selection of natural beauty products! The staff is knowledgeable about ingredients and helped me find products for my sensitive skin. Love this place!",
+    "date": "2024-01-04T10:30:00Z",
+    "reviewer_name": "Emma Wilson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_013",
+    "review_id": "rev_029",
+    "rating": 4,
+    "text": "Great health store with good variety of vitamins and supplements. The staff is helpful and knowledgeable. Prices are a bit high but the quality is worth it.",
+    "date": "2024-01-01T15:45:00Z",
+    "reviewer_name": "James Martinez",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_013",
+    "review_id": "rev_117",
+    "rating": 5,
+    "text": "This health store introduced me to adaptogenic herbs that have completely changed my energy levels! The staff is so knowledgeable and took time to explain exactly how to use everything. Worth every penny for the personalized service.",
+    "date": "2024-04-02T09:15:00Z",
+    "reviewer_name": "Michelle Torres",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_014",
+    "review_id": "rev_030",
+    "rating": 2,
+    "text": "Disappointed with the customer service at this beauty store. Products are good but the staff was unhelpful and seemed more interested in chatting with each other than assisting customers.",
+    "date": "2024-01-03T09:45:00Z",
+    "reviewer_name": "Isabella Robinson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_014",
+    "review_id": "rev_031",
+    "rating": 5,
+    "text": "Love this beauty store! They offer free mini-makeovers and the staff is so knowledgeable about all the products. Great loyalty program too!",
+    "date": "2024-01-01T14:00:00Z",
+    "reviewer_name": "Michael Davis",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_014",
+    "review_id": "rev_118",
+    "rating": 1,
+    "text": "Horrible experience at this beauty store. The foundation I was matched with was completely wrong for my skin tone despite my concerns during the consultation. When I tried to return it, they insisted it was the right shade and refused the return.",
+    "date": "2024-04-05T15:30:00Z",
+    "reviewer_name": "Alicia Freeman",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_015",
+    "review_id": "rev_032",
+    "rating": 5,
+    "text": "Best toy store ever! The interactive displays let kids try before you buy, and the staff is great with children. They gift wrap for free too!",
+    "date": "2024-01-02T11:30:00Z",
+    "reviewer_name": "Sarah Taylor",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_015",
+    "review_id": "rev_033",
+    "rating": 4,
+    "text": "Great selection of educational toys and games. The staff is knowledgeable and can recommend age-appropriate items. Prices are reasonable for the quality.",
+    "date": "2024-01-01T16:15:00Z",
+    "reviewer_name": "Daniel Brown",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_015",
+    "review_id": "rev_119",
+    "rating": 5,
+    "text": "This toy store is incredible! They had a special area for children with sensory needs, and the staff member helped us find the perfect quiet toys for my son with autism. This level of inclusivity and understanding is rare and so appreciated!",
+    "date": "2024-04-08T10:45:00Z",
+    "reviewer_name": "Elizabeth Palmer",
+    "verified_purchase": true
+  }
+]

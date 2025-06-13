@@ -1,0 +1,527 @@
+[
+  {
+    "store_id": "store_001",
+    "question": "What are your store hours?",
+    "answer": "We are open Monday through Friday 9 AM to 9 PM, Saturday 9 AM to 10 PM, and Sunday 10 AM to 8 PM.",
+    "date": "2024-01-15T08:30:00Z",
+    "category": "hours"
+  },
+  {
+    "store_id": "store_001",
+    "question": "Do you offer price matching?",
+    "answer": "Yes, we offer price matching on identical items from major competitors. Please bring the competitor's current advertisement.",
+    "date": "2024-01-14T14:20:00Z",
+    "category": "pricing"
+  },
+  {
+    "store_id": "store_001",
+    "question": "Is there parking available?",
+    "answer": "We have a parking lot with 50 spaces. During peak hours, street parking is also available on the adjacent streets.",
+    "date": "2024-01-13T11:15:00Z",
+    "category": "parking"
+  },
+  {
+    "store_id": "store_001",
+    "question": "Do you repair electronics in-store?",
+    "answer": "Yes, we have a dedicated repair center for laptops, phones, and tablets. Repairs usually take 2-5 days depending on parts availability.",
+    "date": "2024-02-05T16:45:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_001",
+    "question": "Are there any upcoming sales?",
+    "answer": "We have our annual Spring Tech Sale starting next weekend. Sign up for our newsletter to get early access and additional discounts.",
+    "date": "2024-02-12T09:30:00Z",
+    "category": "promotions"
+  },
+  {
+    "store_id": "store_002",
+    "question": "Do you have a return policy?",
+    "answer": "Yes, we accept returns within 30 days with receipt. Items must be in original condition and packaging.",
+    "date": "2024-01-15T10:45:00Z",
+    "category": "returns"
+  },
+  {
+    "store_id": "store_002",
+    "question": "Can I place orders online for pickup?",
+    "answer": "Absolutely! You can order online and pick up in-store. We'll have your order ready within 2 hours during business hours.",
+    "date": "2024-01-12T16:30:00Z",
+    "category": "ordering"
+  },
+  {
+    "store_id": "store_002",
+    "question": "Do you deliver patio furniture?",
+    "answer": "Yes, we offer delivery services for patio furniture within a 25-mile radius. Delivery is free for purchases over $500.",
+    "date": "2024-02-08T14:20:00Z",
+    "category": "delivery"
+  },
+  {
+    "store_id": "store_002",
+    "question": "Do you offer assembly services for furniture?",
+    "answer": "Yes, we offer professional assembly services for a fee starting at $49.99. The exact cost depends on the complexity of the furniture.",
+    "date": "2024-02-15T11:05:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_002",
+    "question": "Is there a warranty on garden equipment?",
+    "answer": "All our garden equipment comes with a minimum 1-year manufacturer warranty. We also offer extended warranties for up to 3 years.",
+    "date": "2024-01-25T13:40:00Z",
+    "category": "warranty"
+  },
+  {
+    "store_id": "store_003",
+    "question": "Do you offer delivery services?",
+    "answer": "We offer same-day delivery within a 10-mile radius for orders over $50. Delivery fee is $9.99.",
+    "date": "2024-01-14T09:20:00Z",
+    "category": "delivery"
+  },
+  {
+    "store_id": "store_003",
+    "question": "Are you hiring?",
+    "answer": "Yes, we are currently looking for part-time sales associates. Please apply online or visit the store with your resume.",
+    "date": "2024-01-13T15:10:00Z",
+    "category": "employment"
+  },
+  {
+    "store_id": "store_003",
+    "question": "Do you offer personal styling services?",
+    "answer": "Yes, we offer complimentary styling sessions with our fashion experts. Appointments are recommended but walk-ins are welcome based on availability.",
+    "date": "2024-02-10T10:15:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_003",
+    "question": "Can I return items purchased on sale?",
+    "answer": "Sale items can be returned within 14 days for store credit only. Final clearance items marked as 'Final Sale' cannot be returned.",
+    "date": "2024-01-28T17:35:00Z",
+    "category": "returns"
+  },
+  {
+    "store_id": "store_003",
+    "question": "Do you carry plus sizes?",
+    "answer": "Yes, we carry sizes XS through 3XL in most of our women's clothing lines and up to 2XL in men's clothing.",
+    "date": "2024-02-14T12:50:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_004",
+    "question": "What gaming consoles do you have in stock?",
+    "answer": "We currently have PlayStation 5, Xbox Series X, Nintendo Switch, and Steam Deck in stock. Limited quantities are available for the PS5 and Xbox Series X.",
+    "date": "2024-02-01T14:15:00Z",
+    "category": "inventory"
+  },
+  {
+    "store_id": "store_004",
+    "question": "Do you have student discounts?",
+    "answer": "Yes, we offer a 10% student discount on most items with a valid student ID. This cannot be combined with other promotions.",
+    "date": "2024-01-22T09:45:00Z",
+    "category": "discounts"
+  },
+  {
+    "store_id": "store_004",
+    "question": "What's your holiday return policy?",
+    "answer": "Items purchased between November 1st and December 24th can be returned until January 31st with a receipt.",
+    "date": "2024-01-05T11:30:00Z",
+    "category": "returns"
+  },
+  {
+    "store_id": "store_004",
+    "question": "Do you recycle old electronics?",
+    "answer": "Yes, we have an electronics recycling program. You can bring in old devices, and we'll recycle them responsibly. There's no fee for this service.",
+    "date": "2024-02-18T16:05:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_004",
+    "question": "Do you offer technical support?",
+    "answer": "Yes, our Geek Squad offers technical support services including device setup, virus removal, and troubleshooting. Fees vary based on the service.",
+    "date": "2024-01-19T13:25:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_005",
+    "question": "Do you sell plants and gardening supplies?",
+    "answer": "Yes, we have a large garden center with a variety of plants, seeds, soils, fertilizers, and gardening tools. Our inventory varies seasonally.",
+    "date": "2024-02-03T10:20:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_005",
+    "question": "Can I get custom window treatments?",
+    "answer": "Yes, we offer custom window treatments including blinds, shades, and curtains. Our design consultants can help you choose the perfect options for your home.",
+    "date": "2024-01-26T15:40:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_005",
+    "question": "Do you offer interior design consultations?",
+    "answer": "Yes, we offer interior design consultations for $75, which is credited toward your purchase if you spend over $500. Appointments can be scheduled online or by phone.",
+    "date": "2024-02-09T11:55:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_005",
+    "question": "What's your rain check policy?",
+    "answer": "If an advertised item is out of stock, we can issue a rain check valid for 30 days. This guarantees the sale price when the item becomes available.",
+    "date": "2024-01-16T14:10:00Z",
+    "category": "policies"
+  },
+  {
+    "store_id": "store_005",
+    "question": "Do you install kitchen appliances?",
+    "answer": "We offer professional installation services for kitchen appliances starting at $129.99. This includes delivery, installation, and removal of old appliances.",
+    "date": "2024-02-20T09:15:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_006",
+    "question": "Do you alter clothes purchased in-store?",
+    "answer": "Yes, we offer basic alterations for clothing purchased in our store. Hemming and simple adjustments are free, while more complex alterations have a fee.",
+    "date": "2024-01-29T13:30:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_006",
+    "question": "When will the new seasonal collection arrive?",
+    "answer": "Our Spring/Summer collection will arrive by the first week of March. VIP members get early access to the collection 3 days before the public launch.",
+    "date": "2024-02-17T16:25:00Z",
+    "category": "inventory"
+  },
+  {
+    "store_id": "store_006",
+    "question": "Do you have a loyalty program?",
+    "answer": "Yes, our Style Rewards program gives you 1 point for every $1 spent. You get a $10 reward for every 200 points earned, plus exclusive member promotions.",
+    "date": "2024-01-18T10:50:00Z",
+    "category": "loyalty"
+  },
+  {
+    "store_id": "store_006",
+    "question": "Do you sell gift cards?",
+    "answer": "Yes, we sell physical and digital gift cards in denominations from $25 to $500. Physical gift cards are available in-store, and digital ones can be purchased online.",
+    "date": "2024-02-06T12:40:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_006",
+    "question": "Can I reserve items to try on?",
+    "answer": "Yes, you can use our app to reserve items to try on in-store. We'll hold them in a fitting room for you for up to 1 hour after your selected time.",
+    "date": "2024-01-24T15:05:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_007",
+    "question": "Do you have organic produce?",
+    "answer": "Yes, we have a dedicated organic produce section with locally sourced fruits and vegetables when available. We also have organic dairy, meat, and pantry items.",
+    "date": "2024-02-11T08:55:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_007",
+    "question": "What are your deli hours?",
+    "answer": "Our deli is open daily from 7 AM to 8 PM. Hot food is available from 11 AM to 7 PM.",
+    "date": "2024-01-27T12:25:00Z",
+    "category": "hours"
+  },
+  {
+    "store_id": "store_007",
+    "question": "Do you offer catering services?",
+    "answer": "Yes, we offer catering services for events of all sizes. Orders must be placed at least 48 hours in advance. We have party platters, sandwich trays, and custom options.",
+    "date": "2024-02-07T16:15:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_007",
+    "question": "Can I order a custom cake?",
+    "answer": "Yes, our bakery takes custom cake orders. Please place your order at least 72 hours in advance. We have a catalog of designs or can create something special.",
+    "date": "2024-01-21T09:40:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_007",
+    "question": "Do you sell beer and wine?",
+    "answer": "Yes, we have a large selection of craft beers, domestic beers, and wines. We also have a nice selection of local breweries and wineries.",
+    "date": "2024-02-02T17:30:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_008",
+    "question": "Do you have a pharmacy in-store?",
+    "answer": "Yes, our pharmacy is open Monday through Friday 8 AM to 9 PM, Saturday 9 AM to 7 PM, and Sunday 10 AM to 6 PM. We also offer prescription delivery.",
+    "date": "2024-01-31T11:20:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_008",
+    "question": "Do you offer grocery delivery?",
+    "answer": "Yes, we offer same-day grocery delivery through our app or website. Orders placed before 1 PM can be delivered by 6 PM. Delivery fee is $7.99 or free for orders over $100.",
+    "date": "2024-02-19T10:30:00Z",
+    "category": "delivery"
+  },
+  {
+    "store_id": "store_008",
+    "question": "Do you have gluten-free options?",
+    "answer": "Yes, we have a dedicated gluten-free section with breads, pastas, snacks, and baking supplies. Many of our prepared foods also have gluten-free options clearly labeled.",
+    "date": "2024-01-23T14:55:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_008",
+    "question": "Do you have a salad bar?",
+    "answer": "Yes, our salad bar is open daily from 10 AM to 8 PM. It's priced by weight at $8.99 per pound and includes a variety of fresh ingredients and house-made dressings.",
+    "date": "2024-02-13T12:15:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_008",
+    "question": "Do you accept SNAP/EBT benefits?",
+    "answer": "Yes, we accept SNAP/EBT benefits for eligible food items. We also participate in the Double Up Food Bucks program for fresh fruits and vegetables.",
+    "date": "2024-01-17T09:05:00Z",
+    "category": "payment"
+  },
+  {
+    "store_id": "store_009",
+    "question": "Do you rent camping equipment?",
+    "answer": "Yes, we rent tents, sleeping bags, backpacks, and other camping gear. Weekend rentals run Friday to Monday. A security deposit is required.",
+    "date": "2024-02-04T15:50:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_009",
+    "question": "Do you have a climbing wall?",
+    "answer": "Yes, we have a 30-foot climbing wall with routes for beginners to advanced climbers. Day passes are $15, or free with any purchase over $75.",
+    "date": "2024-01-30T11:40:00Z",
+    "category": "facilities"
+  },
+  {
+    "store_id": "store_009",
+    "question": "Do you sell fishing licenses?",
+    "answer": "Yes, we sell fishing licenses for the state. You'll need a valid ID and can purchase daily, weekly, or annual licenses at our customer service desk.",
+    "date": "2024-02-16T14:30:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_009",
+    "question": "Do you repair bikes?",
+    "answer": "Yes, our bike shop offers repairs, tune-ups, and custom builds. Basic tune-ups start at $65, and most repairs can be completed within 1-3 days.",
+    "date": "2024-01-20T10:05:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_009",
+    "question": "Do you offer guided hiking tours?",
+    "answer": "Yes, we organize weekend hiking tours for various skill levels. Sign-up is required at least 3 days in advance. The cost is $25 per person, which includes a trail map and snack.",
+    "date": "2024-02-21T09:25:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_010",
+    "question": "Do you have a shoe fitting service?",
+    "answer": "Yes, we offer professional shoe fitting services using our 3D foot scanning technology. This service is complimentary and helps you find the perfect athletic shoes for your feet.",
+    "date": "2024-01-25T16:35:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_010",
+    "question": "Do you have a running club?",
+    "answer": "Yes, our store hosts a free running club that meets every Tuesday and Thursday at 6 PM and Saturday at 8 AM. All levels are welcome.",
+    "date": "2024-02-08T13:50:00Z",
+    "category": "community"
+  },
+  {
+    "store_id": "store_010",
+    "question": "Do you restring tennis rackets?",
+    "answer": "Yes, we offer tennis racket restringing services. Prices range from $20-$40 depending on the string type. Most restringing is completed within 48 hours.",
+    "date": "2024-01-19T11:15:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_010",
+    "question": "Can I try out equipment before buying?",
+    "answer": "Yes, we have a dedicated testing area for trying out tennis rackets, baseball bats, and golf clubs. For larger equipment like kayaks, we have demo days once a month.",
+    "date": "2024-02-14T15:20:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_010",
+    "question": "Do you sell team uniforms?",
+    "answer": "Yes, we offer team uniforms for various sports with custom printing and embroidery services. We offer volume discounts for teams of 10 or more players.",
+    "date": "2024-01-28T10:40:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_011",
+    "question": "Do you host book signings?",
+    "answer": "Yes, we regularly host author events and book signings. Check our events calendar on our website or sign up for our newsletter to stay informed about upcoming events.",
+    "date": "2024-02-05T17:05:00Z",
+    "category": "events"
+  },
+  {
+    "store_id": "store_011",
+    "question": "Do you buy used books?",
+    "answer": "Yes, we buy gently used books for store credit. We offer 30% of our selling price in store credit. Please bring books during our buying hours: Tuesday-Saturday, 10 AM to 4 PM.",
+    "date": "2024-01-22T14:45:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_011",
+    "question": "Do you have a children's story time?",
+    "answer": "Yes, we host children's story time every Saturday at 10:30 AM for ages 3-7. It's free and no registration is required.",
+    "date": "2024-02-10T09:35:00Z",
+    "category": "events"
+  },
+  {
+    "store_id": "store_011",
+    "question": "Can you order books that aren't in stock?",
+    "answer": "Yes, we can special order almost any book in print. Most orders arrive within 3-5 business days, and there's no obligation to purchase upon arrival.",
+    "date": "2024-01-16T12:30:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_011",
+    "question": "Do you have a book club?",
+    "answer": "Yes, we have multiple book clubs that meet monthly. Each focuses on different genres. There's no fee to join, but we do ask that you purchase the book from our store.",
+    "date": "2024-02-18T15:10:00Z",
+    "category": "community"
+  },
+  {
+    "store_id": "store_012",
+    "question": "Do you sell vinyl records?",
+    "answer": "Yes, we have a large selection of vinyl records including new releases, reissues, and used classics. We get new inventory weekly, typically on Tuesdays.",
+    "date": "2024-01-24T13:15:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_012",
+    "question": "Do you buy used CDs and DVDs?",
+    "answer": "Yes, we buy used CDs, DVDs, Blu-rays, and vinyl in good condition. We offer cash or store credit, with store credit giving you 25% more value.",
+    "date": "2024-02-07T10:55:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_012",
+    "question": "Do you have listening stations?",
+    "answer": "Yes, we have listening stations throughout the store where you can preview albums before purchasing. Just ask a staff member for assistance.",
+    "date": "2024-01-27T16:40:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_012",
+    "question": "Do you host live music?",
+    "answer": "Yes, we host local musicians for in-store performances most Friday evenings from 7-9 PM. These events are free and open to all ages.",
+    "date": "2024-02-16T11:50:00Z",
+    "category": "events"
+  },
+  {
+    "store_id": "store_012",
+    "question": "Do you sell turntables and audio equipment?",
+    "answer": "Yes, we carry a selection of turntables, speakers, headphones, and accessories ranging from entry-level to audiophile quality.",
+    "date": "2024-01-31T15:25:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_013",
+    "question": "Do you offer facials and skincare treatments?",
+    "answer": "Yes, we offer a range of facials and skincare treatments. Our signature facial is 60 minutes and costs $85. We also have express 30-minute options and specialized treatments.",
+    "date": "2024-02-03T12:45:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_013",
+    "question": "Do you have a loyalty program for product purchases?",
+    "answer": "Yes, for every $150 spent on products, you'll receive a $15 reward toward your next purchase. You also get a free birthday gift and exclusive member-only promotions.",
+    "date": "2024-01-20T14:35:00Z",
+    "category": "loyalty"
+  },
+  {
+    "store_id": "store_013",
+    "question": "Are your products cruelty-free?",
+    "answer": "Yes, all our skincare and makeup products are cruelty-free. We also have a large selection of vegan options clearly marked with our vegan symbol.",
+    "date": "2024-02-13T09:50:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_013",
+    "question": "Do you offer makeup application services?",
+    "answer": "Yes, we offer makeup application services starting at $45 for a basic application. Bridal makeup and special occasion packages are also available.",
+    "date": "2024-01-18T16:55:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_013",
+    "question": "Do you have samples of your products?",
+    "answer": "Yes, we offer samples of most skincare products upon request. With purchases over $50, you can select three deluxe samples from our sample bar.",
+    "date": "2024-02-19T13:05:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_014",
+    "question": "Do you offer massage therapy?",
+    "answer": "Yes, we offer various massage therapies including Swedish, deep tissue, hot stone, and prenatal. Sessions range from 30 to 90 minutes, starting at $60 for a 30-minute session.",
+    "date": "2024-01-26T11:10:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_014",
+    "question": "Do you sell essential oils?",
+    "answer": "Yes, we carry a comprehensive range of pure essential oils, blends, and diffusers. Our staff can help you select oils for specific wellness goals.",
+    "date": "2024-02-11T15:30:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_014",
+    "question": "Do you have a sauna or steam room?",
+    "answer": "Yes, we have both infrared saunas and a eucalyptus steam room. They can be booked as standalone 30-minute sessions for $25 or added to any service for $15.",
+    "date": "2024-01-30T14:15:00Z",
+    "category": "facilities"
+  },
+  {
+    "store_id": "store_014",
+    "question": "Do you offer gift certificates?",
+    "answer": "Yes, we offer gift certificates in any amount starting at $25. They can be purchased in-store or online and are valid for all services and products for one year.",
+    "date": "2024-02-17T10:25:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_014",
+    "question": "What is your cancellation policy?",
+    "answer": "We require 24-hour notice for cancellations or rescheduling. Late cancellations or no-shows will be charged 50% of the service price.",
+    "date": "2024-01-23T16:20:00Z",
+    "category": "policies"
+  },
+  {
+    "store_id": "store_015",
+    "question": "Do you host birthday parties?",
+    "answer": "Yes, we offer birthday party packages for children ages 4-12. Packages start at $199 for up to 8 children and include activities, a dedicated host, and a special gift for the birthday child.",
+    "date": "2024-02-06T11:35:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_015",
+    "question": "Do you have a play area?",
+    "answer": "Yes, we have a supervised play area for children ages 3-10. Parents must remain in the store, and there's a 1-hour time limit during busy periods.",
+    "date": "2024-01-29T14:50:00Z",
+    "category": "facilities"
+  },
+  {
+    "store_id": "store_015",
+    "question": "Do you carry educational toys?",
+    "answer": "Yes, we have a large selection of educational toys organized by age group and developmental skills. Our staff can help recommend toys based on your child's interests and learning goals.",
+    "date": "2024-02-15T13:40:00Z",
+    "category": "products"
+  },
+  {
+    "store_id": "store_015",
+    "question": "Do you offer a baby registry?",
+    "answer": "Yes, we offer a baby registry service both in-store and online. Registrants receive a 10% completion discount on remaining items after the event date.",
+    "date": "2024-01-21T09:15:00Z",
+    "category": "services"
+  },
+  {
+    "store_id": "store_015",
+    "question": "Do you sell battery-free toys?",
+    "answer": "Yes, we have a dedicated section for battery-free, eco-friendly toys including wooden toys, puzzles, and creative play items made from sustainable materials.",
+    "date": "2024-02-12T16:10:00Z",
+    "category": "products"
+  }
+]

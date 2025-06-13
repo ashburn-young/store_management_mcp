@@ -1,0 +1,222 @@
+[
+  {
+    "store_id": "ws_001",
+    "review_id": "ws_rev_001",
+    "rating": 5,
+    "text": "Outstanding experience at the Leesburg store! The staff helped me select the perfect Le Creuset Dutch oven for my holiday cooking. They even offered to sharpen my old knives while I shopped. The cooking class they recommended was fantastic too!",
+    "date": "2024-05-15T14:30:00Z",
+    "reviewer_name": "Margaret Foster",
+    "verified_purchase": true,
+    "product_mentioned": "Le Creuset Dutch Oven",
+    "service_mentioned": "Knife Sharpening, Cooking Classes"
+  },
+  {
+    "store_id": "ws_001",
+    "review_id": "ws_rev_002",
+    "rating": 2,
+    "text": "Visited during the holiday rush and waited over 30 minutes just to get assistance. The Breville espresso machine I wanted was out of stock, and they couldn't tell me when it would be back. Staff seemed overwhelmed and not very knowledgeable about the products.",
+    "date": "2024-05-10T16:45:00Z",
+    "reviewer_name": "James Patterson",
+    "verified_purchase": false,
+    "product_mentioned": "Breville Espresso Machine",
+    "service_mentioned": "Customer Service"
+  },
+  {
+    "store_id": "ws_001",
+    "review_id": "ws_rev_003",
+    "rating": 4,
+    "text": "Great selection of KitchenAid stand mixers and attachments. Found exactly what I needed for my baking hobby. The store layout is well-organized, making it easy to find items. Checkout was quick and efficient. Only wish the parking situation was better.",
+    "date": "2024-05-08T11:20:00Z",
+    "reviewer_name": "Diana Chen",
+    "verified_purchase": true,
+    "product_mentioned": "KitchenAid Stand Mixer",
+    "service_mentioned": "Store Layout"
+  },
+  {
+    "store_id": "ws_002",
+    "review_id": "ws_rev_004",
+    "rating": 5,
+    "text": "The Fair Oaks location is amazing! I used their buy online, pick up in store service for my All-Clad cookware set and it was seamless. The staff demonstrated proper care for the cookware and gave me great tips. Excellent customer service!",
+    "date": "2024-05-12T09:15:00Z",
+    "reviewer_name": "Robert Kim",
+    "verified_purchase": true,
+    "product_mentioned": "All-Clad Cookware Set",
+    "service_mentioned": "Buy Online Pick Up In Store"
+  },
+  {
+    "store_id": "ws_002",
+    "review_id": "ws_rev_005",
+    "rating": 3,
+    "text": "Decent store with good product variety. The Williams Sonoma branded items are quality, but prices are quite high. Staff was helpful but seemed busy with other customers. The cooking class I attended was informative but could have been more hands-on.",
+    "date": "2024-05-07T13:40:00Z",
+    "reviewer_name": "Sandra Martinez",
+    "verified_purchase": true,
+    "product_mentioned": "Williams Sonoma Branded Items",
+    "service_mentioned": "Cooking Classes"
+  },
+  {
+    "store_id": "ws_003",
+    "review_id": "ws_rev_006",
+    "rating": 5,
+    "text": "Incredible experience at the Mosaic store! The design services team helped me plan my entire kitchen renovation. They coordinated everything from the Staub cookware to the perfect serving pieces. The personal shopping service saved me so much time!",
+    "date": "2024-05-14T10:30:00Z",
+    "reviewer_name": "Ashley Rodriguez",
+    "verified_purchase": true,
+    "product_mentioned": "Staub Cookware, Serving Pieces",
+    "service_mentioned": "Design Services, Personal Shopping"
+  },
+  {
+    "store_id": "ws_003",
+    "review_id": "ws_rev_007",
+    "rating": 4,
+    "text": "Love this location! The Vitamix demonstration convinced me to upgrade my old blender. Staff was knowledgeable about the features and showed me how to make perfect smoothies. The gift registry process was smooth for my upcoming wedding.",
+    "date": "2024-05-11T15:20:00Z",
+    "reviewer_name": "Michael Johnson",
+    "verified_purchase": true,
+    "product_mentioned": "Vitamix Blender",
+    "service_mentioned": "Product Demonstration, Gift Registry"
+  },
+  {
+    "store_id": "ws_004",
+    "review_id": "ws_rev_008",
+    "rating": 2,
+    "text": "Disappointed with my visit to the Mobile location. The Shun knife set I wanted had a damaged box, and when I asked for a discount, they refused. The knife sharpening service took much longer than promised, and I had to make two trips.",
+    "date": "2024-05-09T14:15:00Z",
+    "reviewer_name": "Carol Williams",
+    "verified_purchase": false,
+    "product_mentioned": "Shun Knife Set",
+    "service_mentioned": "Knife Sharpening"
+  },
+  {
+    "store_id": "ws_005",
+    "review_id": "ws_rev_009",
+    "rating": 5,
+    "text": "The Summit store exceeded my expectations! I attended their pasta making class and learned so much. The KitchenAid pasta attachments they recommended work perfectly. The staff's enthusiasm for cooking really shows - they're not just selling products, they're sharing their passion!",
+    "date": "2024-05-13T12:45:00Z",
+    "reviewer_name": "David Thompson",
+    "verified_purchase": true,
+    "product_mentioned": "KitchenAid Pasta Attachments",
+    "service_mentioned": "Cooking Classes"
+  },
+  {
+    "store_id": "ws_006",
+    "review_id": "ws_rev_010",
+    "rating": 4,
+    "text": "Great store in Chandler! The outdoor grilling section is impressive - found the perfect Weber accessories for my patio setup. The staff helped me understand the difference between various grill tools. The seasonal entertaining display gave me lots of ideas.",
+    "date": "2024-05-06T16:30:00Z",
+    "reviewer_name": "Lisa Garcia",
+    "verified_purchase": true,
+    "product_mentioned": "Weber Grill Accessories",
+    "service_mentioned": "Product Education"
+  },
+  {
+    "store_id": "ws_007",
+    "review_id": "ws_rev_011",
+    "rating": 5,
+    "text": "The SoHo flagship store is absolutely stunning! The JURA espresso machine demonstration was thorough and professional. I appreciated the barista-level training they provided with my purchase. The store's ambiance makes shopping a pleasure rather than a chore.",
+    "date": "2024-05-16T11:00:00Z",
+    "reviewer_name": "Jonathan Miller",
+    "verified_purchase": true,
+    "product_mentioned": "JURA Espresso Machine",
+    "service_mentioned": "Product Training, Store Ambiance"
+  },
+  {
+    "store_id": "ws_008",
+    "rating": 4,
+    "review_id": "ws_rev_012",
+    "text": "Beverly Hills location has an excellent selection of high-end items. The GreenPan cookware set I purchased is fantastic quality. The personal shopping service was professional and efficient. However, the prices are definitely at the premium end of the market.",
+    "date": "2024-05-05T14:20:00Z",
+    "reviewer_name": "Rachel Davis",
+    "verified_purchase": true,
+    "product_mentioned": "GreenPan Cookware Set",
+    "service_mentioned": "Personal Shopping"
+  },
+  {
+    "store_id": "ws_009",
+    "review_id": "ws_rev_013",
+    "rating": 5,
+    "text": "Union Square store is a culinary paradise! The seasonal tabletop collection was beautifully displayed. I found the perfect Bernardaud dinnerware for entertaining. The staff's knowledge about proper table setting and entertaining tips was invaluable.",
+    "date": "2024-05-17T13:15:00Z",
+    "reviewer_name": "Catherine Lee",
+    "verified_purchase": true,
+    "product_mentioned": "Bernardaud Dinnerware",
+    "service_mentioned": "Entertaining Consultation"
+  },
+  {
+    "store_id": "ws_010",
+    "review_id": "ws_rev_014",
+    "rating": 3,
+    "text": "The Chicago store has good products but the service was inconsistent. Some staff members were very helpful while others seemed disinterested. The Breville Smart Oven I bought works great, but I had to wait a while for someone to help me understand all the features.",
+    "date": "2024-05-04T10:45:00Z",
+    "reviewer_name": "Mark Wilson",
+    "verified_purchase": true,
+    "product_mentioned": "Breville Smart Oven",
+    "service_mentioned": "Product Education"
+  },
+  {
+    "store_id": "ws_001",
+    "review_id": "ws_rev_015",
+    "rating": 5,
+    "text": "Fantastic Father's Day shopping experience! The staff helped me put together the perfect gift set with Wusthof knives and a cutting board. They even wrapped everything beautifully. The knife skills class recommendation was perfect for my dad who loves to cook.",
+    "date": "2024-05-18T15:30:00Z",
+    "reviewer_name": "Amanda Foster",
+    "verified_purchase": true,
+    "product_mentioned": "Wusthof Knives, Cutting Board",
+    "service_mentioned": "Gift Wrapping, Class Recommendations"
+  },
+  {
+    "store_id": "ws_002",
+    "review_id": "ws_rev_016",
+    "rating": 2,
+    "text": "Came in looking for Mother's Day gifts but was overwhelmed by the pushy sales approach. The Le Creuset pieces are beautiful but very expensive. When I asked about alternatives, the staff seemed dismissive. The store was crowded and stressful to shop in.",
+    "date": "2024-05-03T12:00:00Z",
+    "reviewer_name": "Steven Brown",
+    "verified_purchase": false,
+    "product_mentioned": "Le Creuset",
+    "service_mentioned": "Sales Approach"
+  },
+  {
+    "store_id": "ws_003",
+    "review_id": "ws_rev_017",
+    "rating": 4,
+    "text": "Love the Mosaic location! The espresso and coffee section is incredible - tried several machines before deciding on the Breville Barista Express. The staff was patient with all my questions and even made me several sample drinks. Great customer experience overall.",
+    "date": "2024-05-19T09:30:00Z",
+    "reviewer_name": "Jennifer Park",
+    "verified_purchase": true,
+    "product_mentioned": "Breville Barista Express",
+    "service_mentioned": "Product Sampling, Customer Education"
+  },
+  {
+    "store_id": "ws_004",
+    "review_id": "ws_rev_018",
+    "rating": 5,
+    "text": "Outstanding service at the Mobile store! I was planning a dinner party and the staff helped me coordinate everything from the All-Clad serving pieces to wine accessories. They even provided menu suggestions that paired perfectly with my new cookware. Above and beyond service!",
+    "date": "2024-05-20T16:45:00Z",
+    "reviewer_name": "Daniel Rodriguez",
+    "verified_purchase": true,
+    "product_mentioned": "All-Clad Serving Pieces, Wine Accessories",
+    "service_mentioned": "Event Planning, Menu Consultation"
+  },
+  {
+    "store_id": "ws_005",
+    "review_id": "ws_rev_019",
+    "rating": 3,
+    "text": "The Summit store has a good selection but I found some items to be overpriced compared to online retailers. The staff was helpful with my questions about the KitchenAid ice cream maker attachment. The store presentation is beautiful but it felt more like a showroom than a practical shopping experience.",
+    "date": "2024-05-02T14:30:00Z",
+    "reviewer_name": "Karen Taylor",
+    "verified_purchase": true,
+    "product_mentioned": "KitchenAid Ice Cream Maker",
+    "service_mentioned": "Product Information"
+  },
+  {
+    "store_id": "ws_006",
+    "review_id": "ws_rev_020",
+    "rating": 4,
+    "text": "Great experience at the Chandler store! The baking section is well-stocked with quality tools. I found the perfect Goldtouch baking sheets and learned about proper baking techniques from the knowledgeable staff. The store's organization makes shopping efficient and enjoyable.",
+    "date": "2024-05-21T11:15:00Z",
+    "reviewer_name": "Michelle Anderson",
+    "verified_purchase": true,
+    "product_mentioned": "Goldtouch Baking Sheets",
+    "service_mentioned": "Baking Education, Store Organization"
+  }
+]

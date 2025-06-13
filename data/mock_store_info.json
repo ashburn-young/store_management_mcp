@@ -1,0 +1,35 @@
+[
+  {
+    "store_id": "store_001",
+    "name": "Downtown Main Store",
+    "address": "123 Main St, Downtown, NY 10001",
+    "phone": "+1-555-123-4567",
+    "manager": "John Smith",
+    "category": "Electronics & Tech",
+    "opening_date": "2020-03-15",
+    "square_footage": 2500,
+    "employee_count": 12
+  },
+  {
+    "store_id": "store_002",
+    "name": "Westside Shopping Center",
+    "address": "456 West Ave, Westside, NY 10002",
+    "phone": "+1-555-234-5678",
+    "manager": "Maria Garcia",
+    "category": "Home & Garden",
+    "opening_date": "2019-08-20",
+    "square_footage": 3200,
+    "employee_count": 15
+  },
+  {
+    "store_id": "store_003",
+    "name": "Northgate Plaza",
+    "address": "789 North Blvd, Northgate, NY 10003",
+    "phone": "+1-555-345-6789",
+    "manager": "Sarah Davis",
+    "category": "Fashion & Accessories",
+    "opening_date": "2021-11-10",
+    "square_footage": 1800,
+    "employee_count": 8
+  }
+]

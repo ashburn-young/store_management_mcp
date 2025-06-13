@@ -1,0 +1,161 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Executive Snapshot Schema",
+  "description": "Schema for executive-level aggregated insights",
+  "type": "object",
+  "properties": {
+    "snapshot_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date of the snapshot"
+    },
+    "national_kpis": {
+      "type": "object",
+      "properties": {
+        "avg_rating": {
+          "type": "number",
+          "minimum": 1.0,
+          "maximum": 5.0,
+          "description": "National average rating"
+        },
+        "total_stores": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Total number of stores analyzed"
+        },
+        "nps_equivalent": {
+          "type": "number",
+          "minimum": -100,
+          "maximum": 100,
+          "description": "Net Promoter Score equivalent"
+        },
+        "total_reviews": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Total reviews across all stores"
+        }
+      },
+      "required": ["avg_rating", "total_stores", "nps_equivalent"],
+      "additionalProperties": false
+    },
+    "regional_summary": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "region": {
+            "type": "string",
+            "description": "Region name"
+          },
+          "avg_rating": {
+            "type": "number",
+            "minimum": 1.0,
+            "maximum": 5.0,
+            "description": "Regional average rating"
+          },
+          "store_count": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Number of stores in region"
+          },
+          "top_positive_theme": {
+            "type": "string",
+            "description": "Most common positive theme"
+          },
+          "top_concern": {
+            "type": "string",
+            "description": "Most common negative theme"
+          }
+        },
+        "required": ["region", "avg_rating", "store_count"],
+        "additionalProperties": false
+      }
+    },
+    "alerts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "store_id": {
+            "type": "string",
+            "description": "Store identifier"
+          },
+          "alert_type": {
+            "type": "string",
+            "enum": ["rating_drop", "negative_trend", "volume_spike"],
+            "description": "Type of alert"
+          },
+          "severity": {
+            "type": "string",
+            "enum": ["low", "medium", "high", "critical"],
+            "description": "Alert severity level"
+          },
+          "current_rating": {
+            "type": "number",
+            "minimum": 1.0,
+            "maximum": 5.0,
+            "description": "Current rating"
+          },
+          "previous_rating": {
+            "type": "number",
+            "minimum": 1.0,
+            "maximum": 5.0,
+            "description": "Previous rating for comparison"
+          },
+          "change": {
+            "type": "number",
+            "description": "Rating change amount"
+          },
+          "description": {
+            "type": "string",
+            "description": "Human-readable alert description"
+          }
+        },
+        "required": ["store_id", "alert_type", "severity"],
+        "additionalProperties": false
+      }
+    },
+    "trending_issues": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of trending negative themes across all stores"
+    },
+    "data_freshness": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when data was last updated"
+    },
+    "performance_metrics": {
+      "type": "object",
+      "properties": {
+        "processing_time_seconds": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Time taken to process the snapshot"
+        },
+        "stores_processed": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Number of stores successfully processed"
+        },
+        "errors_encountered": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Number of processing errors"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "snapshot_date",
+    "national_kpis", 
+    "regional_summary",
+    "alerts",
+    "trending_issues",
+    "data_freshness"
+  ],
+  "additionalProperties": false
+}

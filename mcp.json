@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "google-business-collection": {
+      "command": "python",
+      "args": ["-m", "google_business_analytics.collection_agent.server"],
+      "cwd": ".",
+      "env": {
+        "PYTHONPATH": "./src",
+        "USE_MOCK_DATA": "true",
+        "DEBUG_MODE": "false"
+      }
+    },
+    "google-business-aggregation": {
+      "command": "python", 
+      "args": ["-m", "google_business_analytics.aggregation_agent.server"],
+      "cwd": ".",
+      "env": {
+        "PYTHONPATH": "./src",
+        "USE_MOCK_DATA": "true",
+        "DEBUG_MODE": "false"
+      }
+    }
+  }
+}

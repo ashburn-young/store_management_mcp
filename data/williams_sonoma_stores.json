@@ -1,0 +1,481 @@
+[
+  {
+    "store_id": "ws_001",
+    "name": "Williams Sonoma - Leesburg Premium Outlets",
+    "address": "241 Fort Evans Rd., Sp. 1001, Premium Outlet-Leesburg Corner, Leesburg, VA 20176-4038",
+    "phone": "(703) 443-9259",
+    "manager": "Emily Richardson",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2018-05-15",
+    "square_footage": 3500,
+    "employee_count": 18,
+    "services": [
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Personal Shopping"
+    ],
+    "store_number": "#6220"
+  },
+  {
+    "store_id": "ws_002",
+    "name": "Williams Sonoma - Fair Oaks Mall",
+    "address": "11818-L Fair Oaks, Space #L133, Fairfax, VA 22033-3307",
+    "phone": "(703) 352-7162",
+    "manager": "David Chen",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2016-03-10",
+    "square_footage": 4200,
+    "employee_count": 22,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Cooking Classes",
+      "Gift Registry"
+    ],
+    "store_number": "#6215"
+  },
+  {
+    "store_id": "ws_003",
+    "name": "Williams Sonoma - Mosaic District",
+    "address": "2920 District Ave Ste 115, Fairfax, VA 22031-4480",
+    "phone": "(703) 280-5180",
+    "manager": "Sarah Martinez",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2019-11-08",
+    "square_footage": 3800,
+    "employee_count": 20,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Design Services",
+      "Gift Registry"
+    ],
+    "store_number": "#6219"
+  },
+  {
+    "store_id": "ws_004",
+    "name": "Williams Sonoma - Legacy Village Mobile",
+    "address": "9 Du Rhu Dr Ste 340, Mobile, AL 36695",
+    "phone": "(251) 304-8964",
+    "manager": "Michael Thompson",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2020-09-22",
+    "square_footage": 3200,
+    "employee_count": 16,
+    "services": [
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Cooking Classes"
+    ],
+    "store_number": "#6221"
+  },
+  {
+    "store_id": "ws_005",
+    "name": "Williams Sonoma - Summit Birmingham",
+    "address": "217 Summit Blvd STE F1, Vestavia, AL 35216",
+    "phone": "(205) 986-0578",
+    "manager": "Jennifer Wilson",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2017-08-14",
+    "square_footage": 3600,
+    "employee_count": 19,
+    "services": [
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Personal Shopping",
+      "Design Services"
+    ],
+    "store_number": "#6218"
+  },
+  {
+    "store_id": "ws_006",
+    "name": "Williams Sonoma - Casa Paloma Chandler",
+    "address": "7131 W. Ray Road Ste 14, Chandler, AZ 85226",
+    "phone": "(480) 212-0832",
+    "manager": "Robert Garcia",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2019-02-28",
+    "square_footage": 4000,
+    "employee_count": 21,
+    "services": [
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Cooking Classes",
+      "Personal Shopping"
+    ],
+    "store_number": "#6225"
+  },
+  {
+    "store_id": "ws_007",
+    "name": "Williams Sonoma - SoHo New York",
+    "address": "121 Spring St, New York, NY 10012",
+    "phone": "(212) 966-8580",
+    "manager": "Alexandra Park",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2015-04-12",
+    "square_footage": 5200,
+    "employee_count": 28,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Cooking Classes",
+      "Design Services",
+      "Gift Registry"
+    ],
+    "store_number": "#6201"
+  },
+  {
+    "store_id": "ws_008",
+    "name": "Williams Sonoma - Beverly Hills",
+    "address": "9540 S Santa Monica Blvd, Beverly Hills, CA 90210",
+    "phone": "(310) 274-9127",
+    "manager": "Lisa Rodriguez",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2012-10-05",
+    "square_footage": 4800,
+    "employee_count": 26,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Cooking Classes",
+      "Design Services",
+      "Gift Registry",
+      "Personal Shopping"
+    ],
+    "store_number": "#6105"
+  },
+  {
+    "store_id": "ws_009",
+    "name": "Williams Sonoma - Union Square San Francisco",
+    "address": "340 Post St, San Francisco, CA 94108",
+    "phone": "(415) 362-9450",
+    "manager": "Thomas Lee",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2010-06-18",
+    "square_footage": 6000,
+    "employee_count": 32,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Cooking Classes",
+      "Design Services",
+      "Gift Registry",
+      "Personal Shopping",
+      "Corporate Services"
+    ],
+    "store_number": "#6001"
+  },
+  {
+    "store_id": "ws_010",
+    "name": "Williams Sonoma - North Michigan Chicago",
+    "address": "17 E Monroe St, Chicago, IL 60603",
+    "phone": "(312) 553-9600",
+    "manager": "Patricia Johnson",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2014-09-30",
+    "square_footage": 4500,
+    "employee_count": 24,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Cooking Classes",
+      "Gift Registry",
+      "Personal Shopping"
+    ],
+    "store_number": "#6180"
+  },
+  {
+    "store_id": "ws_011",
+    "name": "Williams Sonoma - Disney Springs",
+    "address": "1620 E Buena Vista Dr, Lake Buena Vista, FL 32830",
+    "phone": "(407) 938-9080",
+    "manager": "Jessica Williams",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2019-03-22",
+    "square_footage": 3200,
+    "employee_count": 22,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Personal Shopping"
+    ],
+    "store_number": "#6230"
+  },
+  {
+    "store_id": "ws_012",
+    "name": "Williams Sonoma - Stanford Shopping Center",
+    "address": "180 El Camino Real, Palo Alto, CA 94304",
+    "phone": "(650) 321-3486",
+    "manager": "Brandon Thomas",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2021-12-02",
+    "square_footage": 3800,
+    "employee_count": 17,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Cooking Classes",
+      "Gift Registry"
+    ],
+    "store_number": "#6125"
+  },
+  {
+    "store_id": "ws_013",
+    "name": "Williams Sonoma - The Grove",
+    "address": "189 The Grove Dr, Los Angeles, CA 90036",
+    "phone": "(323) 954-9220",
+    "manager": "Elizabeth Miller",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2019-10-19",
+    "square_footage": 4200,
+    "employee_count": 27,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Cooking Classes",
+      "Gift Registry",
+      "Personal Shopping"
+    ],
+    "store_number": "#6108"
+  },
+  {
+    "store_id": "ws_014",
+    "name": "Williams Sonoma - Lincoln Park",
+    "address": "1550 N Fremont St, Chicago, IL 60622",
+    "phone": "(312) 255-0643",
+    "manager": "Michael Johnson",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2018-11-19",
+    "square_footage": 3500,
+    "employee_count": 21,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry"
+    ],
+    "store_number": "#6182"
+  },
+  {
+    "store_id": "ws_015",
+    "name": "Williams Sonoma - King of Prussia",
+    "address": "160 N Gulph Rd, King of Prussia, PA 19406",
+    "phone": "(610) 265-5970",
+    "manager": "Rebecca Martinez",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2015-02-19",
+    "square_footage": 4000,
+    "employee_count": 24,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Personal Shopping"
+    ],
+    "store_number": "#6315"
+  },
+  {
+    "store_id": "ws_016",
+    "name": "Williams Sonoma - Short Hills",
+    "address": "1200 Morris Turnpike, Short Hills, NJ 07078",
+    "phone": "(973) 467-3641",
+    "manager": "Rebecca Martinez",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2020-10-24",
+    "square_footage": 3500,
+    "employee_count": 30,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Cooking Classes",
+      "Gift Registry"
+    ],
+    "store_number": "#6210"
+  },
+  {
+    "store_id": "ws_017",
+    "name": "Williams Sonoma - Cherry Creek",
+    "address": "3000 E 1st Ave, Denver, CO 80206",
+    "phone": "(303) 394-2662",
+    "manager": "Melissa Jackson",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2014-03-31",
+    "square_footage": 4800,
+    "employee_count": 23,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Design Services"
+    ],
+    "store_number": "#6250"
+  },
+  {
+    "store_id": "ws_018",
+    "name": "Williams Sonoma - Bellevue Square",
+    "address": "221 Bellevue Square, Bellevue, WA 98004",
+    "phone": "(425) 454-0020",
+    "manager": "Amanda Brown",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2018-05-16",
+    "square_footage": 3500,
+    "employee_count": 21,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Cooking Classes",
+      "Gift Registry"
+    ],
+    "store_number": "#6295"
+  },
+  {
+    "store_id": "ws_019",
+    "name": "Williams Sonoma - Lenox Square",
+    "address": "3393 Peachtree Rd NE, Atlanta, GA 30326",
+    "phone": "(404) 812-1703",
+    "manager": "Jessica Williams",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2016-07-06",
+    "square_footage": 4000,
+    "employee_count": 22,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Personal Shopping"
+    ],
+    "store_number": "#6145"
+  },
+  {
+    "store_id": "ws_020",
+    "name": "Williams Sonoma - The Mall at Millenia",
+    "address": "4200 Conroy Rd, Orlando, FL 32839",
+    "phone": "(407) 226-7575",
+    "manager": "Matthew Wilson",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2016-10-26",
+    "square_footage": 4200,
+    "employee_count": 28,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Design Services"
+    ],
+    "store_number": "#6235"
+  },
+  {
+    "store_id": "ws_021",
+    "name": "Williams Sonoma - Galleria Dallas",
+    "address": "13350 Dallas Pkwy, Dallas, TX 75240",
+    "phone": "(972) 450-9560",
+    "manager": "Stephanie Taylor",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2014-07-28",
+    "square_footage": 4200,
+    "employee_count": 30,
+    "services": [
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Personal Shopping"
+    ],
+    "store_number": "#6150"
+  },
+  {
+    "store_id": "ws_022",
+    "name": "Williams Sonoma - Scottsdale Fashion Square",
+    "address": "7014 E Camelback Rd, Scottsdale, AZ 85251",
+    "phone": "(480) 425-7912",
+    "manager": "Christopher Davis",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2018-07-18",
+    "square_footage": 3800,
+    "employee_count": 20,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Cooking Classes",
+      "Gift Registry"
+    ],
+    "store_number": "#6228"
+  },
+  {
+    "store_id": "ws_023",
+    "name": "Williams Sonoma - Fashion Valley",
+    "address": "7007 Friars Rd, San Diego, CA 92108",
+    "phone": "(619) 295-0643",
+    "manager": "Amanda Brown",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2021-07-11",
+    "square_footage": 3200,
+    "employee_count": 29,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Personal Shopping"
+    ],
+    "store_number": "#6110"
+  },
+  {
+    "store_id": "ws_024",
+    "name": "Williams Sonoma - Tysons Corner Center",
+    "address": "1961 Chain Bridge Rd, Tysons Corner, VA 22102",
+    "phone": "(703) 288-1115",
+    "manager": "Melissa Jackson",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2020-10-31",
+    "square_footage": 4500,
+    "employee_count": 17,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Gift Registry",
+      "Design Services"
+    ],
+    "store_number": "#6216"
+  },
+  {
+    "store_id": "ws_025",
+    "name": "Williams Sonoma - NorthPark Center",
+    "address": "8687 N Central Expy, Dallas, TX 75225",
+    "phone": "(214) 378-6216",
+    "manager": "Matthew Wilson",
+    "category": "Cookware & Kitchen",
+    "opening_date": "2019-08-10",
+    "square_footage": 3200,
+    "employee_count": 30,
+    "services": [
+      "In-Store Pickup",
+      "Store Events",
+      "Knife Sharpening",
+      "Cooking Classes",
+      "Gift Registry"
+    ],
+    "store_number": "#6152"
+  }
+]

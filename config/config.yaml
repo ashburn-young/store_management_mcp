@@ -1,0 +1,85 @@
+# Google Business Analytics MCP Server Configuration
+
+# Azure OpenAI Configuration (for enhanced analytics)
+azure_openai:
+  # Azure OpenAI endpoint and deployment
+  endpoint: "${AZURE_OPENAI_ENDPOINT}"
+  deployment_name: "${AZURE_OPENAI_DEPLOYMENT_NAME:gpt-4o}"
+  api_version: "2024-02-15-preview"
+  
+  # Generation settings
+  max_tokens: 1500
+  temperature: 0.1
+  
+  # Feature toggles
+  enabled: true
+  use_for_sentiment: true
+  use_for_themes: true
+  use_for_summaries: true
+  use_for_alerts: true
+
+# Google API Configuration
+google_api:
+  # Google My Business API settings
+  api_key: "${GOOGLE_API_KEY}"
+  service_account_file: "${GOOGLE_SERVICE_ACCOUNT_FILE}"
+  
+  # Rate limiting settings
+  requests_per_minute: 100
+  batch_size: 50
+  
+  # Data collection settings
+  default_lookback_days: 30
+  max_reviews_per_request: 100
+
+# Data Processing Configuration
+processing:
+  # Sentiment analysis settings
+  sentiment_threshold_positive: 0.1
+  sentiment_threshold_negative: -0.1
+  
+  # Theme extraction settings
+  min_theme_frequency: 3
+  max_themes_per_store: 10
+  
+  # Alert thresholds
+  alert_rating_drop_threshold: 0.5
+  alert_review_volume_drop_threshold: 0.3
+  alert_negative_sentiment_threshold: 0.4
+
+# Executive Summary Configuration
+executive:
+  # Aggregation settings
+  min_stores_for_insights: 2
+  trend_analysis_days: 14
+  
+  # Dashboard refresh settings
+  cache_duration_minutes: 15
+  auto_refresh_enabled: true
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file_path: "logs/mcp_server.log"
+  max_file_size_mb: 10
+  backup_count: 5
+
+# MCP Server Configuration
+mcp:
+  collection_server:
+    name: "google-business-collection"
+    version: "1.0.0"
+    port: 3001
+    
+  aggregation_server:
+    name: "google-business-aggregation" 
+    version: "1.0.0"
+    port: 3002
+
+# Development/Testing Configuration
+development:
+  use_mock_data: true
+  mock_data_path: "data/"
+  enable_debug_mode: false
+  skip_api_calls: true

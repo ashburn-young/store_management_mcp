@@ -1,0 +1,202 @@
+[
+  {
+    "store_id": "ws_001",
+    "question_id": "ws_q_001",
+    "question": "Do you offer cooking classes for beginners?",
+    "answer": "Yes! We offer hands-on cooking classes for all skill levels, including beginner-friendly sessions. Our upcoming classes include knife skills, pasta making, and holiday entertaining. You can register online or in-store.",
+    "category": "Services",
+    "date": "2024-05-15T10:00:00Z",
+    "staff_member": "Emily Richardson",
+    "response_time_hours": 0.5
+  },
+  {
+    "store_id": "ws_001",
+    "question_id": "ws_q_002",
+    "question": "What's the difference between All-Clad D3 and D5 cookware?",
+    "answer": "Great question! All-Clad D3 has 3 layers (aluminum core with stainless steel), while D5 has 5 layers with an additional aluminum layer. D5 offers more even heat distribution and is compatible with induction cooktops. Both are excellent, but D5 is our premium line.",
+    "category": "Product Information",
+    "date": "2024-05-14T14:30:00Z",
+    "staff_member": "Emily Richardson",
+    "response_time_hours": 1.2
+  },
+  {
+    "store_id": "ws_002",
+    "question_id": "ws_q_003",
+    "question": "Can I use my Williams Sonoma credit card for online purchases?",
+    "answer": "Absolutely! Your Williams Sonoma credit card can be used for all purchases - in-store, online, and at our sister brands like Pottery Barn and West Elm. Plus, you'll earn Key Rewards points on every purchase.",
+    "category": "Payment & Credit",
+    "date": "2024-05-13T16:45:00Z",
+    "staff_member": "David Chen",
+    "response_time_hours": 0.3
+  },
+  {
+    "store_id": "ws_002",
+    "question_id": "ws_q_004",
+    "question": "Do you sharpen knives that weren't purchased at Williams Sonoma?",
+    "answer": "Yes, we offer knife sharpening services for most quality knives, regardless of where they were purchased. The service takes about 24-48 hours and costs $5 per knife. We use professional equipment to restore your blades to like-new sharpness.",
+    "category": "Services",
+    "date": "2024-05-12T09:20:00Z",
+    "staff_member": "David Chen",
+    "response_time_hours": 2.1
+  },
+  {
+    "store_id": "ws_003",
+    "question_id": "ws_q_005",
+    "question": "What's the return policy on espresso machines?",
+    "answer": "We have a 30-day return policy on espresso machines. If you're not completely satisfied, you can return the machine with original packaging and receipt for a full refund. We also offer a 90-day satisfaction guarantee on most Williams Sonoma branded items.",
+    "category": "Returns & Exchanges",
+    "date": "2024-05-11T11:15:00Z",
+    "staff_member": "Sarah Martinez",
+    "response_time_hours": 0.8
+  },
+  {
+    "store_id": "ws_003",
+    "question_id": "ws_q_006",
+    "question": "Can you help me plan a dinner party for 12 people?",
+    "answer": "We'd love to help! Our design services team can assist with everything from tabletop settings to serving pieces and even menu planning. We offer complimentary consultations and can coordinate the perfect entertaining setup for your party.",
+    "category": "Design Services",
+    "date": "2024-05-10T13:40:00Z",
+    "staff_member": "Sarah Martinez",
+    "response_time_hours": 1.5
+  },
+  {
+    "store_id": "ws_004",
+    "question_id": "ws_q_007",
+    "question": "Are Le Creuset pieces dishwasher safe?",
+    "answer": "Yes, most Le Creuset enameled cast iron pieces are dishwasher safe, though we recommend hand washing to preserve the enamel finish. The lids and trivets are definitely dishwasher safe. Avoid harsh detergents and always let the cookware cool before washing.",
+    "category": "Product Care",
+    "date": "2024-05-09T15:20:00Z",
+    "staff_member": "Michael Thompson",
+    "response_time_hours": 0.7
+  },
+  {
+    "store_id": "ws_005",
+    "question_id": "ws_q_008",
+    "question": "Do you offer gift wrapping for online orders?",
+    "answer": "Yes! We offer several gift wrapping options for online orders, including our signature Williams Sonoma gift boxes and seasonal wrapping. You can add gift wrapping during checkout, and we can include a personalized message card.",
+    "category": "Gift Services",
+    "date": "2024-05-08T12:30:00Z",
+    "staff_member": "Jennifer Wilson",
+    "response_time_hours": 1.0
+  },
+  {
+    "store_id": "ws_006",
+    "question_id": "ws_q_009",
+    "question": "What's the warranty on KitchenAid stand mixers?",
+    "answer": "KitchenAid stand mixers come with a one-year hassle-free replacement warranty. If any issues arise within the first year, KitchenAid will replace the entire unit. We also carry extended warranty options for additional peace of mind.",
+    "category": "Warranty",
+    "date": "2024-05-07T10:45:00Z",
+    "staff_member": "Robert Garcia",
+    "response_time_hours": 0.4
+  },
+  {
+    "store_id": "ws_007",
+    "question_id": "ws_q_010",
+    "question": "Can I schedule a private cooking lesson?",
+    "answer": "Absolutely! We offer private and semi-private cooking lessons with our certified chefs. You can customize the menu and skills you'd like to learn. Private lessons start at $150 per person with a 2-person minimum. Perfect for date nights or special occasions!",
+    "category": "Private Services",
+    "date": "2024-05-06T14:15:00Z",
+    "staff_member": "Alexandra Park",
+    "response_time_hours": 2.3
+  },
+  {
+    "store_id": "ws_008",
+    "question_id": "ws_q_011",
+    "question": "Do you price match other retailers?",
+    "answer": "We don't offer traditional price matching, but we do have a Low Price Guarantee on identical items from authorized retailers. We'll match the price and provide our superior customer service. Our Key Rewards program also offers exclusive member pricing.",
+    "category": "Pricing",
+    "date": "2024-05-05T16:50:00Z",
+    "staff_member": "Lisa Rodriguez",
+    "response_time_hours": 1.8
+  },
+  {
+    "store_id": "ws_009",
+    "question_id": "ws_q_012",
+    "question": "What's the best way to season a carbon steel pan?",
+    "answer": "Great question! For carbon steel pans, start by washing with soap and water, then heat the pan until it changes color. Apply a thin layer of high-heat oil (like grapeseed), wipe excess, and heat until smoking. Repeat 2-3 times. We offer a detailed seasoning guide with purchase.",
+    "category": "Product Education",
+    "date": "2024-05-04T11:30:00Z",
+    "staff_member": "Thomas Lee",
+    "response_time_hours": 0.6
+  },
+  {
+    "store_id": "ws_010",
+    "question_id": "ws_q_013",
+    "question": "Can I return personalized items?",
+    "answer": "Personalized and monogrammed items are generally final sale due to their custom nature. However, if there's an error in the personalization or product defect, we'll gladly exchange or refund the item. We always double-check personalization details before processing.",
+    "category": "Returns & Exchanges",
+    "date": "2024-05-03T13:25:00Z",
+    "staff_member": "Patricia Johnson",
+    "response_time_hours": 1.1
+  },
+  {
+    "store_id": "ws_001",
+    "question_id": "ws_q_014",
+    "question": "Do you offer corporate catering equipment consultation?",
+    "answer": "Yes! We have a dedicated B2B program for restaurants, catering companies, and corporate kitchens. Our commercial specialists can help with equipment selection, volume pricing, and ongoing support. Contact our trade department for a consultation.",
+    "category": "Business Services",
+    "date": "2024-05-02T09:40:00Z",
+    "staff_member": "Emily Richardson",
+    "response_time_hours": 3.2
+  },
+  {
+    "store_id": "ws_002",
+    "question_id": "ws_q_015",
+    "question": "What's included in the bridal registry consultation?",
+    "answer": "Our complimentary bridal registry consultation includes a one-on-one session with a registry specialist, personalized recommendations based on your cooking style and entertaining needs, exclusive registry perks, and ongoing support. We'll help you create the perfect wish list!",
+    "category": "Registry Services",
+    "date": "2024-05-01T15:10:00Z",
+    "staff_member": "David Chen",
+    "response_time_hours": 0.9
+  },
+  {
+    "store_id": "ws_003",
+    "question_id": "ws_q_016",
+    "question": "Are your baking classes suitable for children?",
+    "answer": "We offer special parent-child baking classes for ages 8 and up, as well as teen-focused sessions during school breaks. Our instructors are experienced with young bakers and focus on fun, safe techniques. All participants get to take home their creations!",
+    "category": "Classes & Events",
+    "date": "2024-04-30T12:20:00Z",
+    "staff_member": "Sarah Martinez",
+    "response_time_hours": 1.4
+  },
+  {
+    "store_id": "ws_004",
+    "question_id": "ws_q_017",
+    "question": "Can I special order items not in stock?",
+    "answer": "Absolutely! We can special order most items from our catalog, even if they're not currently in stock at our location. Depending on the item, special orders typically arrive within 1-2 weeks. We'll call you as soon as your order arrives.",
+    "category": "Special Orders",
+    "date": "2024-04-29T14:55:00Z",
+    "staff_member": "Michael Thompson",
+    "response_time_hours": 2.0
+  },
+  {
+    "store_id": "ws_005",
+    "question_id": "ws_q_018",
+    "question": "What's the difference between your knife brands?",
+    "answer": "We carry several premium knife brands: Wüsthof (German engineering, classic balance), Shun (Japanese craftsmanship, incredibly sharp), Zwilling (versatile, great for beginners), and Williams Sonoma (our signature line, excellent value). Each has unique characteristics - we'd love to help you find the perfect fit!",
+    "category": "Product Comparison",
+    "date": "2024-04-28T16:35:00Z",
+    "staff_member": "Jennifer Wilson",
+    "response_time_hours": 1.7
+  },
+  {
+    "store_id": "ws_006",
+    "question_id": "ws_q_019",
+    "question": "Do you repair small appliances?",
+    "answer": "We don't repair appliances in-store, but we can help coordinate warranty service with manufacturers. For items purchased at Williams Sonoma, we'll handle the warranty claim process for you. We also offer extended service plans on select appliances.",
+    "category": "Repairs & Service",
+    "date": "2024-04-27T10:15:00Z",
+    "staff_member": "Robert Garcia",
+    "response_time_hours": 2.5
+  },
+  {
+    "store_id": "ws_007",
+    "question_id": "ws_q_020",
+    "question": "Can I use multiple gift cards for one purchase?",
+    "answer": "Yes, you can use multiple gift cards for a single purchase, both in-store and online. There's no limit to the number of gift cards you can apply. If your purchase total exceeds your gift card balance, you can pay the difference with any other payment method.",
+    "category": "Gift Cards",
+    "date": "2024-04-26T13:45:00Z",
+    "staff_member": "Alexandra Park",
+    "response_time_hours": 0.5
+  }
+]

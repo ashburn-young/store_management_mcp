@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
+
+name: google-business-analytics-mcp
+metadata:
+  template: google-business-analytics-mcp@0.0.1-beta
+
+infra:
+  provider: bicep
+
+services:
+  collection-agent:
+    project: ./src/google_business_analytics/collection_agent
+    language: python
+    host: containerapp
+
+  aggregation-agent:
+    project: ./src/google_business_analytics/aggregation_agent
+    language: python
+    host: containerapp
+
+  dashboard:
+    project: ./dashboard
+    language: python
+    host: containerapp
+
+hooks:
+  prepackage:
+    shell: pwsh
+    run: |
+      Write-Host "Building container images..."
+      
+      # Install dependencies
+      if (Test-Path ".venv") {
+        .venv/Scripts/Activate.ps1
+      }
+      pip install -e .
+
+  predeploy:
+    shell: pwsh
+    run: |
+      Write-Host "Pre-deployment validation..."
+      
+      # Validate that required environment variables are set
+      if (-not $env:GOOGLE_API_KEY) {
+        Write-Error "GOOGLE_API_KEY environment variable is required"
+        exit 1
+      }
+      
+      if (-not $env:GOOGLE_SERVICE_ACCOUNT_JSON) {
+        Write-Error "GOOGLE_SERVICE_ACCOUNT_JSON environment variable is required"
+        exit 1
+      }
+
+  postdeploy:
+    shell: pwsh
+    run: |
+      Write-Host "Post-deployment setup..."
+      Write-Host "Dashboard URL: ${SERVICE_DASHBOARD_URI}"
+      Write-Host "Collection Agent URL: ${SERVICE_COLLECTION_AGENT_URI}"
+      Write-Host "Aggregation Agent URL: ${SERVICE_AGGREGATION_AGENT_URI}"

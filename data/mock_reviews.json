@@ -1,0 +1,83 @@
+[
+  {
+    "store_id": "store_001",
+    "review_id": "rev_001",
+    "rating": 5,
+    "text": "Excellent service! The staff was incredibly helpful and the product quality exceeded my expectations. Will definitely be back!",
+    "date": "2024-01-15T10:30:00Z",
+    "reviewer_name": "Sarah Johnson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_001",
+    "review_id": "rev_002",
+    "rating": 2,
+    "text": "Very disappointed with the customer service. Had to wait 45 minutes just to get assistance. The staff seemed overwhelmed and unorganized.",
+    "date": "2024-01-14T15:45:00Z",
+    "reviewer_name": "Michael Chen",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_001",
+    "review_id": "rev_003",
+    "rating": 4,
+    "text": "Good selection of products and reasonable prices. The checkout process was smooth. Only wish they had more parking spaces available.",
+    "date": "2024-01-13T12:20:00Z",
+    "reviewer_name": "Emily Rodriguez",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_002",
+    "review_id": "rev_004",
+    "rating": 5,
+    "text": "Amazing experience! The new layout makes it so easy to find everything. Staff is knowledgeable and friendly. Great job on the renovation!",
+    "date": "2024-01-15T09:15:00Z",
+    "reviewer_name": "David Wilson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_002",
+    "review_id": "rev_005",
+    "rating": 1,
+    "text": "Worst shopping experience ever. The store was dirty, products were misplaced, and the staff was rude. Will not be returning.",
+    "date": "2024-01-12T18:30:00Z",
+    "reviewer_name": "Jennifer Martinez",
+    "verified_purchase": false
+  },
+  {
+    "store_id": "store_002",
+    "review_id": "rev_006",
+    "rating": 3,
+    "text": "Average experience. Found what I needed but nothing special. Prices are competitive but service could be improved.",
+    "date": "2024-01-11T14:10:00Z",
+    "reviewer_name": "Robert Taylor",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_003",
+    "review_id": "rev_007",
+    "rating": 4,
+    "text": "Great store with helpful staff. The online ordering system works well. Only downside is limited weekend hours.",
+    "date": "2024-01-14T11:45:00Z",
+    "reviewer_name": "Lisa Anderson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_003",
+    "review_id": "rev_008",
+    "rating": 5,
+    "text": "Exceptional customer service! They went above and beyond to help me find the right product. Highly recommend this location.",
+    "date": "2024-01-13T16:20:00Z",
+    "reviewer_name": "Mark Thompson",
+    "verified_purchase": true
+  },
+  {
+    "store_id": "store_003",
+    "review_id": "rev_009",
+    "rating": 2,
+    "text": "Product was out of stock despite website showing availability. No one bothered to call ahead. Wasted trip and time.",
+    "date": "2024-01-10T13:30:00Z",
+    "reviewer_name": "Amanda White",
+    "verified_purchase": false
+  }
+]

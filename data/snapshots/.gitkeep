@@ -1,0 +1,2 @@
+# This file ensures the snapshots directory is preserved in Git
+# Actual snapshot files are ignored via .gitignore

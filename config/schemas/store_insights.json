@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Store Insights Schema",
+  "description": "Schema for individual store insights generated from Google Business data",
+  "type": "object",
+  "properties": {
+    "store_id": {
+      "type": "string",
+      "description": "Unique identifier for the store",
+      "pattern": "^[a-zA-Z0-9_-]+$"
+    },
+    "collection_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date when the data was collected"
+    },
+    "rating": {
+      "type": "number",
+      "minimum": 1.0,
+      "maximum": 5.0,
+      "description": "Overall store rating"
+    },
+    "review_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Total number of reviews"
+    },
+    "themes_positive": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Positive themes extracted from reviews"
+    },
+    "themes_negative": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Negative themes extracted from reviews"
+    },
+    "review_excerpt": {
+      "type": "string",
+      "description": "Representative excerpt from recent reviews"
+    },
+    "sentiment_distribution": {
+      "type": "object",
+      "properties": {
+        "positive": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Percentage of positive reviews"
+        },
+        "neutral": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Percentage of neutral reviews"
+        },
+        "negative": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Percentage of negative reviews"
+        }
+      },
+      "required": ["positive", "neutral", "negative"],
+      "additionalProperties": false
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "reviews_analyzed": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Number of reviews analyzed for this insight"
+        },
+        "date_range": {
+          "type": "string",
+          "description": "Date range of reviews analyzed"
+        },
+        "api_calls": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Number of API calls made"
+        }
+      },
+      "required": ["reviews_analyzed", "date_range"],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "store_id",
+    "collection_date", 
+    "rating",
+    "review_count",
+    "themes_positive",
+    "themes_negative",
+    "sentiment_distribution",
+    "metadata"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,49 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "google-business-analytics"
+version = "0.1.0"
+description = "MCP servers for Google Business data collection and executive analytics"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "mcp>=1.0.0",
+    "pydantic>=2.0.0",
+    "httpx>=0.25.0",
+    "python-dotenv>=1.0.0",
+    "streamlit>=1.28.0",
+    "pandas>=2.0.0",
+    "plotly>=5.0.0",
+    "textblob>=0.17.0",
+    "pyyaml>=6.0.0",
+    "rich>=13.0.0",
+    "openai>=1.0.0",
+    "azure-identity>=1.15.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-asyncio>=0.21.0",
+    "black>=23.0.0",
+    "ruff>=0.1.0",
+    "mypy>=1.0.0"
+]
+
+[project.scripts]
+collection-agent = "google_business_analytics.collection_agent.server:main"
+aggregation-agent = "google_business_analytics.aggregation_agent.server:main"
+
+[tool.black]
+line-length = 88
+target-version = ["py38"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py38"
+
+[tool.mypy]
+python_version = "3.8"
+strict = true

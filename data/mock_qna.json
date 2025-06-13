@@ -1,0 +1,51 @@
+[
+  {
+    "store_id": "store_001",
+    "question": "What are your store hours?",
+    "answer": "We are open Monday through Friday 9 AM to 9 PM, Saturday 9 AM to 10 PM, and Sunday 10 AM to 8 PM.",
+    "date": "2024-01-15T08:30:00Z",
+    "category": "hours"
+  },
+  {
+    "store_id": "store_001",
+    "question": "Do you offer price matching?",
+    "answer": "Yes, we offer price matching on identical items from major competitors. Please bring the competitor's current advertisement.",
+    "date": "2024-01-14T14:20:00Z",
+    "category": "pricing"
+  },
+  {
+    "store_id": "store_001",
+    "question": "Is there parking available?",
+    "answer": "We have a parking lot with 50 spaces. During peak hours, street parking is also available on the adjacent streets.",
+    "date": "2024-01-13T11:15:00Z",
+    "category": "parking"
+  },
+  {
+    "store_id": "store_002",
+    "question": "Do you have a return policy?",
+    "answer": "Yes, we accept returns within 30 days with receipt. Items must be in original condition and packaging.",
+    "date": "2024-01-15T10:45:00Z",
+    "category": "returns"
+  },
+  {
+    "store_id": "store_002",
+    "question": "Can I place orders online for pickup?",
+    "answer": "Absolutely! You can order online and pick up in-store. We'll have your order ready within 2 hours during business hours.",
+    "date": "2024-01-12T16:30:00Z",
+    "category": "ordering"
+  },
+  {
+    "store_id": "store_003",
+    "question": "Do you offer delivery services?",
+    "answer": "We offer same-day delivery within a 10-mile radius for orders over $50. Delivery fee is $9.99.",
+    "date": "2024-01-14T09:20:00Z",
+    "category": "delivery"
+  },
+  {
+    "store_id": "store_003",
+    "question": "Are you hiring?",
+    "answer": "Yes, we are currently looking for part-time sales associates. Please apply online or visit the store with your resume.",
+    "date": "2024-01-13T15:10:00Z",
+    "category": "employment"
+  }
+]

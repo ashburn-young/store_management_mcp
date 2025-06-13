@@ -1,0 +1,92 @@
+{
+  "Product Information": {
+    "description": "Questions about cookware specifications, appliance features, product comparisons, and culinary recommendations",
+    "keywords": ["features", "specs", "compatibility", "recommend", "difference", "which", "best", "cookware", "appliance"],
+    "typical_questions": [
+      "What's the difference between All-Clad D3 and D5?",
+      "Which knife would you recommend for a beginner?",
+      "Is this cookware induction compatible?",
+      "What are the features of this espresso machine?"
+    ]
+  },
+  "Payment & Credit": {
+    "description": "Questions about pricing, Williams Sonoma credit card, Key Rewards program, and payment methods",
+    "keywords": ["price", "cost", "payment", "credit card", "key rewards", "discount", "sale", "financing"],
+    "typical_questions": [
+      "Can I use my Williams Sonoma credit card online?",
+      "How do Key Rewards points work?",
+      "Are there any current promotions?",
+      "Do you offer price matching?"
+    ]
+  },
+  "Services": {
+    "description": "Questions about cooking classes, knife sharpening, design services, and in-store offerings",
+    "keywords": ["cooking class", "knife sharpening", "design service", "consultation", "class", "workshop", "sharpening"],
+    "typical_questions": [
+      "Do you offer cooking classes for beginners?",
+      "Can you sharpen knives not bought here?",
+      "What design services do you provide?",
+      "How do I sign up for a cooking class?"
+    ]
+  },
+  "Gift Services": {
+    "description": "Questions about gift wrapping, registries, gift cards, and special occasion services",
+    "keywords": ["gift", "registry", "wedding", "wrap", "gift card", "bridal", "birthday"],
+    "typical_questions": [
+      "Do you offer gift wrapping?",
+      "How do I set up a wedding registry?",
+      "Can I use multiple gift cards for one purchase?",
+      "What's included in the bridal registry consultation?"
+    ]
+  },
+  "Returns & Exchanges": {
+    "description": "Questions about return policies, exchange procedures, warranty, and satisfaction guarantees",
+    "keywords": ["return", "exchange", "refund", "policy", "warranty", "satisfaction", "defective"],
+    "typical_questions": [
+      "What's your return policy on espresso machines?",
+      "Can I return personalized items?",
+      "How does the satisfaction guarantee work?",
+      "What if my product has a defect?"
+    ]
+  },
+  "Product Care": {
+    "description": "Questions about maintenance, cleaning, seasoning, and proper care of kitchen products",
+    "keywords": ["care", "clean", "maintenance", "season", "dishwasher safe", "storage", "preserve"],
+    "typical_questions": [
+      "Are Le Creuset pieces dishwasher safe?",
+      "How do I season a carbon steel pan?",
+      "How should I care for my wooden cutting board?",
+      "What's the best way to clean copper cookware?"
+    ]
+  },
+  "Product Education": {
+    "description": "Questions about cooking techniques, product usage, and culinary education",
+    "keywords": ["how to", "technique", "cooking", "baking", "use", "tutorial", "education"],
+    "typical_questions": [
+      "What's the best way to use this mandoline?",
+      "How do I properly use a stand mixer?",
+      "What cooking techniques work best with this pan?",
+      "Can you teach me how to use this espresso machine?"
+    ]
+  },
+  "Classes & Events": {
+    "description": "Questions about cooking classes, wine tastings, demonstrations, and special events",
+    "keywords": ["class", "event", "demonstration", "workshop", "tasting", "private lesson"],
+    "typical_questions": [
+      "Are your baking classes suitable for children?",
+      "Can I schedule a private cooking lesson?",
+      "What events do you have this month?",
+      "Do you offer corporate team building classes?"
+    ]
+  },
+  "Business Services": {
+    "description": "Questions about B2B programs, trade accounts, corporate services, and professional consultation",
+    "keywords": ["business", "corporate", "trade", "professional", "restaurant", "catering", "commercial"],
+    "typical_questions": [
+      "Do you offer corporate catering equipment consultation?",
+      "How do I set up a trade account?",
+      "What's your professional chef program?",
+      "Can you help with restaurant equipment needs?"
+    ]
+  }
+}
